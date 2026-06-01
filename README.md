@@ -19,10 +19,6 @@
 * **Networking & Tools:** Git/GitHub, Nginx, Wireshark, Postman, TCP/IP, SSH, Cron
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vietnguyeen&layout=compact&theme=radium)
 
 
-### 📫 Let's Connect
-
-* **LinkedIn:** [linkedin.com/in/vietnguyeen](https://www.linkedin.com/in/vietnguyeen)
-* **Email:** vietng1308@gmail.com
