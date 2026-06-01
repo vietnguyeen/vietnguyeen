@@ -18,7 +18,6 @@
 * **DevOps & Infrastructure:** Docker, Docker Compose, GitHub Actions (CI/CD), Linux (Ubuntu/Debian), Caddy/Nginx (Reverse Proxy)
 * **Networking & Tools:** Git/GitHub, Nginx, Wireshark, Postman, TCP/IP, SSH, Cron
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vietnguyeen&layout=compact&theme=radium)
+
 
 
