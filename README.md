@@ -7,7 +7,7 @@
 
 * 🎓 **Education:** Bachelor of Computer Engineering @HCMUT-VNU.
 * ⚙️ **Core Focus:** System Architecture, Asynchronous Microservices, and Linux Server Administration.
-* 🏗️ **Current Projects:** Architecting and deploying production-grade e-commerce platforms (including *greenshop* and *plantshop*), focusing on live traffic handling and automated inventory operations.
+
 
 
 ### 🛠️ Tech Stack & Tools
